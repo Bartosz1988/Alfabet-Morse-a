@@ -1,0 +1,6 @@
+Alfabet Morse'a - Plan:
+
+1. Utwórz mapê przypisuj¹c¹ znaki do kolejnych liter alfabetu
+2. Zapisz do zmiennej typu string wczytany wyraz
+3. Zamieñ wczytany wyraz na alfabet morse'a korzystaj¹c z mapy, kolejne litetry oddzielaj ukoœnikiem i spacje kolejnym ukoœnikiem
+4. Wypisz na ekran utworzone s³owo, które bêdzie siê znajdowaæ w kolejnej zmiennej typu string
